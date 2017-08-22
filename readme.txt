@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Frahulsia%2Fjava-screen-recorder.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Frahulsia%2Fjava-screen-recorder?ref=badge_shield)
+
 java-screen-recorder
 --------------------
 java-screen-recorder provides platform independent screen capture and 
@@ -53,3 +55,7 @@ conversion tool such as ffmpeg.
 To run the screen converter, execute the following command:
    java -jar screen_converter.jar <screen_cap_file.cap>
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Frahulsia%2Fjava-screen-recorder.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Frahulsia%2Fjava-screen-recorder?ref=badge_large)
